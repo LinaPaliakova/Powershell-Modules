@@ -1,4 +1,4 @@
-A collection of Powershell modules and scripts
+A collection of Powershell modules
 
 <h1> Modules </h1>
 
